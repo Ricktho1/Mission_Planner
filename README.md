@@ -1,4 +1,4 @@
-# Mission_Planner
+# Mission Planner and Shortest Path
 
 # System Specifications on which code is tested
 
@@ -89,6 +89,7 @@ The following libraries need to be installed for the following specific tasks
 - Finally the drone Lands in the last waypoint
   
 Below is a video demonstration of the drone's movement as well as the terminal outputs simulataneously
-[![Watch the video]()](https://raw.githubusercontent.com/Ricktho1/Mission_Planner/blob/main/Video/Drone_movement.mp4)
+[Watch the demo video](./Video/Drone_movement.mp4)
+
 
 **Note:** The time is calculated based on the current ground speed, so while taking off or changing direction when the ground speed changes, the time increases quite a lot, stabilised time can be found while the drone is in motion from one way point to other.
