@@ -89,6 +89,6 @@ The following libraries need to be installed for the following specific tasks
 - Finally the drone Lands in the last waypoint
   
 Below is a video demonstration of the drone's movement as well as the terminal outputs simulataneously
-![](./Video/Drone_movement.mp4)
+![Watch Video](./Video/Drone_movement.mp4)
 
 **Note:** The time is calculated based on the current ground speed, so while taking off or changing direction when the ground speed changes, the time increases quite a lot, stabilised time can be found while the drone is in motion from one way point to other.
